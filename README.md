@@ -2,7 +2,7 @@
 
 Hi, my name is adam. Zanjibar's tour guide.
 
-!(imgtest)[https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Foctodex.github.com%2Fimages%2Fyaktocat.png%22&type=w480]
+!(imgtest)[https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Foctodex.github.com%2Fimages%2Fyaktocat.png]
 
 There are many guides in Zanzibar, but I am a bit more competitive in the items shown below.
 
@@ -61,14 +61,10 @@ I can help you make wonderful memories in Zanzibar.
 11. MOTORBIKE RENTAL
  - $20 (**Not** include permit price $10)
  
- ```
- 
-If you want, I can provide transportation.
+>>> If you want, I can provide transportation.
 
-From Airport to hotel in stonetown $10
-From Airport to Nungwi $50
-
- ```
+>>> From Airport to hotel in stonetown $10
+>>> From Airport to Nungwi $50
 
 ### Contact
 
