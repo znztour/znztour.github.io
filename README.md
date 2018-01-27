@@ -56,10 +56,21 @@ I can help you make wonderful memories in Zanzibar.
 10. CAR RENTAL
  - $25 (**Not** include permit price $10)
  
-11. OTORBIKE RENTAL
+11. MOTORBIKE RENTAL
  - $20 (**Not** include permit price $10)
+ 
+ ```
+ 
+If you want, I can provide transportation.
+
+From Airport to hotel in stonetown $10
+From Airport to Nungwi $50
+
+ ```
 
 ### Contact
+
+If you have any questions, please feel free to contact.
 
  - Tel : 123-434-2222
  - E-mail: [abc.naver.com](abc.naver.com)
