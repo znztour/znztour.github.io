@@ -2,7 +2,7 @@
 
 Hi, my name is adam. Zanjibar's tour guide.
 
-!(imgtest)[./img/test1.png]
+![imgtest](./img/test1.png)
 
 There are many guides in Zanzibar, but I am a bit more competitive in the items shown below.
 
