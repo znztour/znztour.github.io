@@ -2,6 +2,8 @@
 
 Hi, my name is adam. Zanjibar's tour guide.
 
+!(imgtest)[https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Foctodex.github.com%2Fimages%2Fyaktocat.png%22&type=w480]
+
 There are many guides in Zanzibar, but I am a bit more competitive in the items shown below.
 
 - Be fluent in English
