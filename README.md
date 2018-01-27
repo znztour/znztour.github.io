@@ -14,24 +14,20 @@ I can help you make wonderful memories in Zanzibar.
 ### Tour list
 
 1. SPICES TOUR
-
  - $15 (* include transport, lunch, guide)
  - 3h ~ 4h (almost half times)
 
 2. STONE TOWN TOUR
-
  - $10(* Not include enterance fee)
   - slave market - $5
   - palace museum - $3
  - 2h 30m (Anytime you can start this tour)
 
 3. PRISON ISLAND
-
  - $10 (* Not include entrance fee - $4)
  - half day
 
 4. SAFARI BLUE
-
  - $50
  - AM 9:00 ~ PM 3:00 (Full day)
 
