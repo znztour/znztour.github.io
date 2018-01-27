@@ -1,6 +1,13 @@
 ## Welcome to Adam's blog for ZNZ(Zanzibar) tour
 
-Hi, my name is adam who 
+Hi, my name is adam. Zanjibar's tour guide.
+
+There are many guides in Zanzibar, but I am a bit more competitive in the items shown below.
+
+- Be fluent in English
+- lived in Zanzibar for a long time
+
+If you are planning to come to Zanzibar, why do not you try the tour shown below?
 
 ### Tour list
 
@@ -8,4 +15,4 @@ Hi, my name is adam who
 
 ### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+E-mail: [abc.naver.com](abc.naver.com)
