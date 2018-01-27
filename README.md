@@ -62,10 +62,8 @@ I can help you make wonderful memories in Zanzibar.
  - $20 (**Not** include permit price $10)
  
 **If you want, I can provide transportation.**
-
-From Airport to hotel in stonetown $1
-
-From Airport to Nungwi $50
+ - From Airport to hotel in stonetown $1
+ - From Airport to Nungwi $50
 
 ### Contact
 
