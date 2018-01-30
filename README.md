@@ -15,6 +15,8 @@ I can help you make wonderful memories in Zanzibar.
 
 ### Tour list
 
+![prof_3](./img/prof_3_sm.jpg)
+
 1. SPICES TOUR
  - $15 (* Include transport, lunch, guide)
  - 3h ~ 4h (Almost half times)
