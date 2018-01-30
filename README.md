@@ -2,9 +2,7 @@
 
 Hi, my name is adam. Zanjibar's tour guide.
 
-![imgtest](./img/test1.png)
-
-![imgtest2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcvHwA2uIAShK0lxmq-qkF2J4u77L2ld6pDkvRaODYjhGkL8SB)
+![prof_1](./img/prof_1.png)
 
 There are many guides in Zanzibar, but I am a bit more competitive in the items shown below.
 
