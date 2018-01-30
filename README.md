@@ -71,5 +71,5 @@ I can help you make wonderful memories in Zanzibar.
 
 If you have any questions, please feel free to contact.
 
- - Tel : 123-434-2222
- - E-mail: [abc.naver.com](abc.naver.com)
+ - Tel : +255 787 383 365
+ - E-mail: [kingmwajogo@hotmail.com](kingmwajogo@hotmail.com)
