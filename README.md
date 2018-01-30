@@ -72,4 +72,4 @@ I can help you make wonderful memories in Zanzibar.
 If you have any questions, please feel free to contact.
 
  - Tel : +255 787 383 365
- - E-mail: [kingmwajogo@hotmail.com](kingmwajogo@hotmail.com)
+ - E-mail: *kingmwajogo@hotmail.com*
